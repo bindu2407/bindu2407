@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="style.css">
-        <title>B.F.F</title>
+        <title>B.F</title>
     </head>
     <body class="background">
         <br>
@@ -22,7 +22,7 @@
                 <li class="color1">Break Fast</li>
                 <li class="color1">Going to College and Listening to Classes</li>
                 <li class="color1">Chilling in Break Times</li>
-                <li class="color1">Playing Cricket If Possible</li>
+                <li class="color1">playing If Possible</li>
                 <li class="color1">Back To Home</li>
                 <li class="color1">Spending Time With Family</li>
                 <li class="color1">Helping Parents In House Works</li>
@@ -44,7 +44,7 @@
                         <th>Hobbie</th>
                     </tr>
                     <tr>
-                        <td>Yaswanth</td>
+                        <td>Jaswanth</td>
                         <td>05-11-2002</td>
                         <td>Cricket</td>
                         <td>Chicken</td>
@@ -53,7 +53,7 @@
                         <td>listening music</td>
                     </tr>
                     <tr>
-                        <td>Varsha</td>
+                        <td>Jarsh</td>
                         <td>20-01-2004</td>
                         <td>Badminton</td>
                         <td>Dal and Pickle</td>
@@ -62,7 +62,7 @@
                         <td>Reading </td>
                     </tr>
                     <tr>
-                        <td>Pooji</td>
+                        <td>Poojitha</td>
                         <td>16-11-2003</td>
                         <td>Badminton</td>
                         <td>Chapathi</td>
