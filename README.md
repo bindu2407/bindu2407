@@ -6,7 +6,7 @@
     <body class="background">
         <br>
         <br>
-        <h1 class="center2">This Page Is To Know About MY BFF's</h1><br>
+        <h1 class="center2">This Page Is To Know About MY BF's</h1><br>
         <div>
             <img src="https://img.freepik.com/premium-photo/children-s-friendship-four-little-school-students-two-boys-two-girls-stand-embrace-schoolyard_109285-10327.jpg?" alt="FRIENDSHIP" class="center1">
         </div>
@@ -50,7 +50,7 @@
                         <td>Chicken</td>
                         <td>India</td>
                         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdvzOgveSO0GtKu_ThQTKwjLkUOZqlVX5OQ&usqp=CAU" alt="Power Star"></td>
-                        <td>Dancing</td>
+                        <td>listening music</td>
                     </tr>
                     <tr>
                         <td>Varsha</td>
@@ -59,7 +59,7 @@
                         <td>Dal and Pickle</td>
                         <td>India</td>
                         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9GQIjJIRe9rneBLTEJgmPsgs3I448OETRg&usqp=CAU" alt="Super Start"></td>
-                        <td>Reading Navels</td>
+                        <td>Reading </td>
                     </tr>
                     <tr>
                         <td>Pooji</td>
@@ -68,7 +68,7 @@
                         <td>Chapathi</td>
                         <td>India</td>
                         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UNG4ELeyVAKuClOa5XJDSXs2DCa1hXlXqg&usqp=CAU" alt="Rebel Start"></td>
-                        <td>Watching Movies</td>
+                        <td>Watching series</td>
                     </tr>
                 </table>
             </fieldset>
