@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background {
+    background-color: #A0C49D;
+    border: 5px solid #f90b9a;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 43%;
+    color: #263A29;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.center2 {
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.color {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #FAD3E7;
+}
+
+.color1 {
+    color: #213363;
+    background-color: #FAF0E4;
+}
+
+.color2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #E5D1FA;
+}
