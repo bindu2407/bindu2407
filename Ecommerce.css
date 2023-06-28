@@ -1,0 +1,52 @@
+*
+{
+  background-color: #ffc982;
+}
+.side-menu ul{
+    margin-left: 10px;
+}
+.side-menu ul li{
+    list-style-type: none;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.side-menu ul li:hover{
+    color: rgb(168, 96, 255);
+}
+.side-menu ul li ul{
+    display: none;
+    z-index: 10;
+    top: 77px;
+}
+.side-menu ul li:hover ul{
+    display: block;
+    height: 400px;
+    margin-left: 14%;
+    padding: 0 100px 10px 10px;
+    position: fixed;
+    background: #ececec;
+    box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5);
+}
+.fa-angle-right{
+    margin-top: 4px;
+    margin-right: 8px;
+    float: right;
+}
+@media only screen and (max-width: 980px){
+    .side-menu{
+        width: 34%;
+        z-index: 20;
+        top: 133px;
+        position: fixed;
+        font-size: 12px;
+    }
+    .side-menu ul li ul{
+        top: 133px;
+    }
+    .side-menu ul li ul{
+        margin-left: 31%;
+    }
+}
+
+ 
